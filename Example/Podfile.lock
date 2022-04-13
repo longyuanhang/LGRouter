@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LGRouter (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LGRouter (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LGRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LGRouter: 33f0b286605d04be7b9e9e264a62069923199bc9
+
+PODFILE CHECKSUM: 2452dc9e573d7286dc469827780e36f340b68806
+
+COCOAPODS: 1.10.1

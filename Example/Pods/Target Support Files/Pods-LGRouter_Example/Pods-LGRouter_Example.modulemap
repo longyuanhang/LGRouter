@@ -1,0 +1,6 @@
+framework module Pods_LGRouter_Example {
+  umbrella header "Pods-LGRouter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
